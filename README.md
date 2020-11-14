@@ -1,2 +1,2 @@
 # Guessing_Game
-A number guessing game using Python. The user tries to guess the computer's number.
+A number guessing game using Python. The script generates a random number and the user must guess the number. 
